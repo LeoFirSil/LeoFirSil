@@ -1,4 +1,4 @@
-## Olá! Sou oLeonardo Firmino
+## Olá! Sou o Leonardo Firmino
 
  <div>
    <a href="https://github.com/YusukeUramesh">
